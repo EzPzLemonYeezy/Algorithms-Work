@@ -1,3 +1,10 @@
+//creating lines that separate each example
+strokeWeight(2);
+stroke(5, 0, 0);
+line(0, 120, 400, 120);
+line(0, 231, 400, 231);
+line(0, 320, 400, 320);
+
 
 var x = 25;
 var y = 64;
